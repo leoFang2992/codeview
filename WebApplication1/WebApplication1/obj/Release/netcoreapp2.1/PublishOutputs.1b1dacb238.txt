@@ -1,0 +1,6 @@
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/appsettings.Development.json
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/appsettings.json
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/WebApplication1.dll
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/WebApplication1.runtimeconfig.json
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/WebApplication1.pdb
+/workspaces/codeview/WebApplication1/WebApplication1/bin/Release/netcoreapp2.1/publish/WebApplication1.deps.json
